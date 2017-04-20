@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D7860437-EC60-4702-B683-7FB75FA3D9EE</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>74d3eaa6-e56c-8749-acc8-e9d9a9bcb572++9312</key>
+		<string>svn://10.1.5.12/HTC%2520Sync%2520of%2520Mac/HTCSynSDK</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>74d3eaa6-e56c-8749-acc8-e9d9a9bcb572++9312</key>
+		<string>HTCSynSDK/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>74d3eaa6-e56c-8749-acc8-e9d9a9bcb572++9312</key>
+		<string>svn://10.1.5.12</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://10.1.5.12/HTC%2520Sync%2520of%2520Mac/HTCSynSDK</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>74d3eaa6-e56c-8749-acc8-e9d9a9bcb572++9312</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>74d3eaa6-e56c-8749-acc8-e9d9a9bcb572++9312</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HTCSynSDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>
